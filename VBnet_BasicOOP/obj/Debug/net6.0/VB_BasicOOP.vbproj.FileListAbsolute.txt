@@ -1,0 +1,14 @@
+D:\up2github\VB.Net_OOP\VBnet_BasicOOP\obj\Debug\net6.0\VB_BasicOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\up2github\VB.Net_OOP\VBnet_BasicOOP\obj\Debug\net6.0\VB_BasicOOP.AssemblyInfoInputs.cache
+D:\up2github\VB.Net_OOP\VBnet_BasicOOP\obj\Debug\net6.0\VB_BasicOOP.AssemblyInfo.vb
+D:\up2github\VB.Net_OOP\VBnet_BasicOOP\obj\Debug\net6.0\VB_BasicOOP.vbproj.CoreCompileInputs.cache
+D:\up2github\VB.Net_OOP\VBnet_BasicOOP\bin\Debug\net6.0\VB_BasicOOP.exe
+D:\up2github\VB.Net_OOP\VBnet_BasicOOP\bin\Debug\net6.0\VB_BasicOOP.deps.json
+D:\up2github\VB.Net_OOP\VBnet_BasicOOP\bin\Debug\net6.0\VB_BasicOOP.runtimeconfig.json
+D:\up2github\VB.Net_OOP\VBnet_BasicOOP\bin\Debug\net6.0\VB_BasicOOP.dll
+D:\up2github\VB.Net_OOP\VBnet_BasicOOP\bin\Debug\net6.0\VB_BasicOOP.pdb
+D:\up2github\VB.Net_OOP\VBnet_BasicOOP\obj\Debug\net6.0\VB_BasicOOP.dll
+D:\up2github\VB.Net_OOP\VBnet_BasicOOP\obj\Debug\net6.0\refint\VB_BasicOOP.dll
+D:\up2github\VB.Net_OOP\VBnet_BasicOOP\obj\Debug\net6.0\VB_BasicOOP.pdb
+D:\up2github\VB.Net_OOP\VBnet_BasicOOP\obj\Debug\net6.0\VB_BasicOOP.genruntimeconfig.cache
+D:\up2github\VB.Net_OOP\VBnet_BasicOOP\obj\Debug\net6.0\ref\VB_BasicOOP.dll
