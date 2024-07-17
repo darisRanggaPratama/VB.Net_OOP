@@ -1,5 +1,13 @@
+Imports System.Formats.Asn1
+Imports VB_BasicOOP.OOP
+
 Module Program
 	Sub Main()
+		OOPrun()
+
+	End Sub
+
+	Private Sub OOPrun()
 		KelasObjek()
 
 		Encap()
@@ -12,6 +20,7 @@ Module Program
 
 		AbstractClass()
 
+		InterfaceShape()
 	End Sub
 
 	Private Sub KelasObjek()
@@ -81,5 +90,13 @@ Module Program
 		Console.WriteLine("Circle Perimeter: " & circle.CalculatePerimeter())
 	End Sub
 
+	Private Sub InterfaceShape()
+		Dim bola As New Bola(6)
+		Console.WriteLine(vbCrLf & $"Volume Bola: {bola.HitungVolume()}")
+		Console.WriteLine($"Luas Permukaan Bola: {bola.HitungPermukaan()}")
 
+		Dim tabung As New Tabung(5, 10)
+		Console.WriteLine(vbCrLf & $"Volume Tabung: {tabung.HitungVolume()}")
+		Console.WriteLine($"Luas Permukaan Tabung: {tabung.HitungPermukaan()}")
+	End Sub
 End Module

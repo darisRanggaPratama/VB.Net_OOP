@@ -1,0 +1,12 @@
+D:\up2github\VB.Net_OOP\VBnet_Course\BasicApp\obj\Debug\BasicApp.vbproj.AssemblyReference.cache
+D:\up2github\VB.Net_OOP\VBnet_Course\BasicApp\obj\Debug\BasicApp.formTest.resources
+D:\up2github\VB.Net_OOP\VBnet_Course\BasicApp\obj\Debug\BasicApp.Resources.resources
+D:\up2github\VB.Net_OOP\VBnet_Course\BasicApp\obj\Debug\BasicApp.vbproj.GenerateResource.cache
+D:\up2github\VB.Net_OOP\VBnet_Course\BasicApp\obj\Debug\BasicApp.vbproj.CoreCompileInputs.cache
+D:\up2github\VB.Net_OOP\VBnet_Course\BasicApp\bin\Debug\BasicApp.exe.config
+D:\up2github\VB.Net_OOP\VBnet_Course\BasicApp\bin\Debug\BasicApp.exe
+D:\up2github\VB.Net_OOP\VBnet_Course\BasicApp\bin\Debug\BasicApp.pdb
+D:\up2github\VB.Net_OOP\VBnet_Course\BasicApp\bin\Debug\BasicApp.xml
+D:\up2github\VB.Net_OOP\VBnet_Course\BasicApp\obj\Debug\BasicApp.exe
+D:\up2github\VB.Net_OOP\VBnet_Course\BasicApp\obj\Debug\BasicApp.xml
+D:\up2github\VB.Net_OOP\VBnet_Course\BasicApp\obj\Debug\BasicApp.pdb

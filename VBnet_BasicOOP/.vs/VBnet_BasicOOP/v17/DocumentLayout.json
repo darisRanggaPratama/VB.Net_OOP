@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|d:\\up2github\\vb.net_oop\\vbnet_basicoop\\oop\\animal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|solutionrelative:oop\\animal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|d:\\up2github\\vb.net_oop\\vbnet_basicoop\\oop\\cat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|solutionrelative:oop\\cat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|d:\\up2github\\vb.net_oop\\vbnet_basicoop\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|d:\\up2github\\vb.net_oop\\vbnet_basicoop\\oop\\person.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|solutionrelative:oop\\person.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|d:\\up2github\\vb.net_oop\\vbnet_basicoop\\oop\\human.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|solutionrelative:oop\\human.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|d:\\up2github\\vb.net_oop\\vbnet_basicoop\\oop\\doctor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|solutionrelative:oop\\doctor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|d:\\up2github\\vb.net_oop\\vbnet_basicoop\\oop\\cow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|solutionrelative:oop\\cow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|d:\\up2github\\vb.net_oop\\vbnet_basicoop\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBD4AD59-9C1A-4B4C-A30F-AB4DC1DE0A26}|VB_BasicOOP.vbproj|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.vb",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\OOP\\Person.vb",
+              "RelativeDocumentMoniker": "OOP\\Person.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\OOP\\Person.vb",
+              "RelativeToolTip": "OOP\\Person.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-29T00:19:46.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Human.vb",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\OOP\\Human.vb",
+              "RelativeDocumentMoniker": "OOP\\Human.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\OOP\\Human.vb",
+              "RelativeToolTip": "OOP\\Human.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-29T00:19:43.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctor.vb",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\OOP\\Doctor.vb",
+              "RelativeDocumentMoniker": "OOP\\Doctor.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\OOP\\Doctor.vb",
+              "RelativeToolTip": "OOP\\Doctor.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-29T00:19:38.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cow.vb",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\OOP\\Cow.vb",
+              "RelativeDocumentMoniker": "OOP\\Cow.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\OOP\\Cow.vb",
+              "RelativeToolTip": "OOP\\Cow.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-29T00:19:33.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.vb",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\OOP\\Cat.vb",
+              "RelativeDocumentMoniker": "OOP\\Cat.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\OOP\\Cat.vb",
+              "RelativeToolTip": "OOP\\Cat.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-29T00:19:29.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.vb",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\OOP\\Animal.vb",
+              "RelativeDocumentMoniker": "OOP\\Animal.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\OOP\\Animal.vb",
+              "RelativeToolTip": "OOP\\Animal.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-29T00:18:57.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "global.json",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T03:31:55.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.vb",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\Program.vb",
+              "RelativeDocumentMoniker": "Program.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\VBnet_BasicOOP\\Program.vb",
+              "RelativeToolTip": "Program.vb",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-02T03:31:19.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

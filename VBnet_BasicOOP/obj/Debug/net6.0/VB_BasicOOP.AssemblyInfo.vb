@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("VB_BasicOOP"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95dcb6282dac854c8d0c1fcf969ef5ef24765150"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("VB_BasicOOP"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("VB_BasicOOP"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
