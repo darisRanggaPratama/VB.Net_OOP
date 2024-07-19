@@ -1,0 +1,12 @@
+D:\up2github\VB.Net_OOP\AnggotaAplikasi\AnggotaApp\obj\Debug\AnggotaApp.vbproj.AssemblyReference.cache
+D:\up2github\VB.Net_OOP\AnggotaAplikasi\AnggotaApp\obj\Debug\AnggotaApp.formAnggota.resources
+D:\up2github\VB.Net_OOP\AnggotaAplikasi\AnggotaApp\obj\Debug\AnggotaApp.Resources.resources
+D:\up2github\VB.Net_OOP\AnggotaAplikasi\AnggotaApp\obj\Debug\AnggotaApp.vbproj.GenerateResource.cache
+D:\up2github\VB.Net_OOP\AnggotaAplikasi\AnggotaApp\obj\Debug\AnggotaApp.vbproj.CoreCompileInputs.cache
+D:\up2github\VB.Net_OOP\AnggotaAplikasi\AnggotaApp\bin\Debug\AnggotaApp.exe.config
+D:\up2github\VB.Net_OOP\AnggotaAplikasi\AnggotaApp\bin\Debug\AnggotaApp.exe
+D:\up2github\VB.Net_OOP\AnggotaAplikasi\AnggotaApp\bin\Debug\AnggotaApp.pdb
+D:\up2github\VB.Net_OOP\AnggotaAplikasi\AnggotaApp\bin\Debug\AnggotaApp.xml
+D:\up2github\VB.Net_OOP\AnggotaAplikasi\AnggotaApp\obj\Debug\AnggotaApp.exe
+D:\up2github\VB.Net_OOP\AnggotaAplikasi\AnggotaApp\obj\Debug\AnggotaApp.xml
+D:\up2github\VB.Net_OOP\AnggotaAplikasi\AnggotaApp\obj\Debug\AnggotaApp.pdb
