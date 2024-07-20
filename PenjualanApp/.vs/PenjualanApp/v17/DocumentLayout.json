@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|D:\\up2github\\VB.Net_OOP\\PenjualanApp\\form_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|D:\\up2github\\VB.Net_OOP\\PenjualanApp\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|d:\\up2github\\vb.net_oop\\penjualanapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|d:\\up2github\\vb.net_oop\\penjualanapp\\form_barang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|solutionrelative:form_barang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|d:\\up2github\\vb.net_oop\\penjualanapp\\form_barang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|solutionrelative:form_barang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|d:\\up2github\\vb.net_oop\\penjualanapp\\form_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|solutionrelative:form_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
@@ -11,11 +27,11 @@
       "RelativeMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|solutionrelative:form_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|d:\\up2github\\vb.net_oop\\penjualanapp\\form_lap_jual_tahun.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|D:\\up2github\\VB.Net_OOP\\PenjualanApp\\form_lap_jual_tahun.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|solutionrelative:form_lap_jual_tahun.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|d:\\up2github\\vb.net_oop\\penjualanapp\\form_lap_jual_tahun.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|D:\\up2github\\VB.Net_OOP\\PenjualanApp\\form_lap_jual_tahun.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|solutionrelative:form_lap_jual_tahun.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
@@ -35,7 +51,7 @@
       "RelativeMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|solutionrelative:form_lap_jual_harian.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|d:\\up2github\\vb.net_oop\\penjualanapp\\lap_jual_harian.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "AbsoluteMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|D:\\up2github\\VB.Net_OOP\\PenjualanApp\\lap_jual_harian.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
       "RelativeMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|solutionrelative:lap_jual_harian.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
     },
     {
@@ -43,7 +59,7 @@
       "RelativeMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|solutionrelative:lap_jual_bulan.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|d:\\up2github\\vb.net_oop\\penjualanapp\\lap_jual_tahun.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "AbsoluteMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|D:\\up2github\\VB.Net_OOP\\PenjualanApp\\lap_jual_tahun.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
       "RelativeMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|solutionrelative:lap_jual_tahun.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
     },
     {
@@ -67,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|solutionrelative:form_lap_barang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|D:\\up2github\\VB.Net_OOP\\PenjualanApp\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7DE5E6AA-933D-4A23-AC0C-2BF397F85510}|PenjualanApp.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PenjualanApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
@@ -85,35 +97,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form_Lap_Jual_Tahun.vb [Design]",
-              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Lap_Jual_Tahun.vb",
-              "RelativeDocumentMoniker": "Form_Lap_Jual_Tahun.vb",
-              "ToolTip": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Lap_Jual_Tahun.vb [Design]",
-              "RelativeToolTip": "Form_Lap_Jual_Tahun.vb [Design]",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-16T00:58:31.198Z",
+              "WhenOpened": "2024-07-20T04:48:57.246Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Form_Barang.vb",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Barang.vb",
+              "RelativeDocumentMoniker": "Form_Barang.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Barang.vb",
+              "RelativeToolTip": "Form_Barang.vb",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-20T04:48:39.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_Barang.vb [Design]",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Barang.vb",
+              "RelativeDocumentMoniker": "Form_Barang.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Barang.vb [Design]",
+              "RelativeToolTip": "Form_Barang.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-20T04:48:35.348Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Form_Lap_Jual_Bulan.vb [Design]",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Lap_Jual_Bulan.vb",
               "RelativeDocumentMoniker": "Form_Lap_Jual_Bulan.vb",
               "ToolTip": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Lap_Jual_Bulan.vb [Design]",
               "RelativeToolTip": "Form_Lap_Jual_Bulan.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-14T07:10:04.504Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-14T07:10:04.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Form_Lap_Jual_Bulan.vb",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Lap_Jual_Bulan.vb",
               "RelativeDocumentMoniker": "Form_Lap_Jual_Bulan.vb",
@@ -121,12 +157,11 @@
               "RelativeToolTip": "Form_Lap_Jual_Bulan.vb",
               "ViewState": "AQIAABcAAAAAAAAAAAApwCoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-14T07:25:19.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T07:25:19.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Form_Lap_Jual_Harian.vb",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Lap_Jual_Harian.vb",
               "RelativeDocumentMoniker": "Form_Lap_Jual_Harian.vb",
@@ -134,12 +169,11 @@
               "RelativeToolTip": "Form_Lap_Jual_Harian.vb",
               "ViewState": "AQIAABIAAAAAAAAAAIA0wCMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-10T03:33:05.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T03:33:05.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Form_Lap_Jual_Tahun.vb",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Lap_Jual_Tahun.vb",
               "RelativeDocumentMoniker": "Form_Lap_Jual_Tahun.vb",
@@ -147,12 +181,35 @@
               "RelativeToolTip": "Form_Lap_Jual_Tahun.vb",
               "ViewState": "AQIAAAoAAAAAAAAAAAAwwCkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-16T01:05:53.655Z",
+              "WhenOpened": "2024-07-16T01:05:53.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-07T05:51:24.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "Form_Lap_Jual_Tahun.vb [Design]",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Lap_Jual_Tahun.vb",
+              "RelativeDocumentMoniker": "Form_Lap_Jual_Tahun.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Lap_Jual_Tahun.vb [Design]",
+              "RelativeToolTip": "Form_Lap_Jual_Tahun.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-16T00:58:31.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form_Menu.vb [Design]",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Menu.vb",
               "RelativeDocumentMoniker": "Form_Menu.vb",
@@ -164,68 +221,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form_Menu.vb",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Menu.vb",
               "RelativeDocumentMoniker": "Form_Menu.vb",
               "ToolTip": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Menu.vb",
               "RelativeToolTip": "Form_Menu.vb",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAywBYAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-07-10T02:27:31.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Form_Lap_Jual_Harian.vb [Design]",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Lap_Jual_Harian.vb",
               "RelativeDocumentMoniker": "Form_Lap_Jual_Harian.vb",
               "ToolTip": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Lap_Jual_Harian.vb [Design]",
               "RelativeToolTip": "Form_Lap_Jual_Harian.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-10T03:32:56.014Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-10T03:32:56.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Lap_Jual_Harian.rpt",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Lap_Jual_Harian.rpt",
               "RelativeDocumentMoniker": "Lap_Jual_Harian.rpt",
               "ToolTip": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Lap_Jual_Harian.rpt",
               "RelativeToolTip": "Lap_Jual_Harian.rpt",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
-              "WhenOpened": "2024-07-10T01:25:01.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T01:25:01.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Lap_Jual_Bulan.rpt",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Lap_Jual_Bulan.rpt",
               "RelativeDocumentMoniker": "Lap_Jual_Bulan.rpt",
               "ToolTip": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Lap_Jual_Bulan.rpt",
               "RelativeToolTip": "Lap_Jual_Bulan.rpt",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
-              "WhenOpened": "2024-07-12T02:22:09.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T02:22:09.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Lap_Jual_Tahun.rpt",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Lap_Jual_Tahun.rpt",
               "RelativeDocumentMoniker": "Lap_Jual_Tahun.rpt",
               "ToolTip": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Lap_Jual_Tahun.rpt",
               "RelativeToolTip": "Lap_Jual_Tahun.rpt",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
-              "WhenOpened": "2024-07-16T00:50:44.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T00:50:44.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Form_Penjualan.vb",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Penjualan.vb",
               "RelativeDocumentMoniker": "Form_Penjualan.vb",
@@ -237,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Lap_Barang.rpt",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Lap_Barang.rpt",
               "RelativeDocumentMoniker": "Lap_Barang.rpt",
@@ -248,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Form_Penjualan.vb [Design]",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Penjualan.vb",
               "RelativeDocumentMoniker": "Form_Penjualan.vb",
@@ -259,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Form_Lap_Barang.vb",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Lap_Barang.vb",
               "RelativeDocumentMoniker": "Form_Lap_Barang.vb",
@@ -271,19 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Module1.vb",
-              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Module1.vb",
-              "RelativeDocumentMoniker": "Module1.vb",
-              "ToolTip": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Module1.vb",
-              "RelativeToolTip": "Module1.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-07T05:51:24.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Form_Input_Barang.vb [Design]",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Input_Barang.vb",
               "RelativeDocumentMoniker": "Form_Input_Barang.vb",
@@ -294,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Form_Lap_Barang.vb [Design]",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\Form_Lap_Barang.vb",
               "RelativeDocumentMoniker": "Form_Lap_Barang.vb",
@@ -305,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "PenjualanApp",
               "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\PenjualanApp\\PenjualanApp.vbproj",
               "RelativeDocumentMoniker": "PenjualanApp.vbproj",

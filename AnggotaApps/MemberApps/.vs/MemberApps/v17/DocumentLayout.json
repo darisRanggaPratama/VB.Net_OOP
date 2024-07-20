@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\up2github\\VB.Net_OOP\\AnggotaApps\\MemberApps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71C5CE26-F4AC-47CF-AB22-732A30C1AB0A}|MemberApps.vbproj|d:\\up2github\\vb.net_oop\\anggotaapps\\memberapps\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{71C5CE26-F4AC-47CF-AB22-732A30C1AB0A}|MemberApps.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C5CE26-F4AC-47CF-AB22-732A30C1AB0A}|MemberApps.vbproj|d:\\up2github\\vb.net_oop\\anggotaapps\\memberapps\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{71C5CE26-F4AC-47CF-AB22-732A30C1AB0A}|MemberApps.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C5CE26-F4AC-47CF-AB22-732A30C1AB0A}|MemberApps.vbproj|d:\\up2github\\vb.net_oop\\anggotaapps\\memberapps\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{71C5CE26-F4AC-47CF-AB22-732A30C1AB0A}|MemberApps.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\AnggotaApps\\MemberApps\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\AnggotaApps\\MemberApps\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-19T17:35:44.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\AnggotaApps\\MemberApps\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\AnggotaApps\\MemberApps\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "My Project\\Application.Designer.vb",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-19T17:35:29.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\AnggotaApps\\MemberApps\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\AnggotaApps\\MemberApps\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-19T17:34:03.238Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

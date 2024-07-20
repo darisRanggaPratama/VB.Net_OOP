@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\up2github\\VB.Net_OOP\\MahasiswaAplikasi\\MahasiswaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B4D689-6E61-4736-8697-6E84A3F7E40E}|MahasiswaApp.vbproj|d:\\up2github\\vb.net_oop\\mahasiswaaplikasi\\mahasiswaapp\\formsearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{45B4D689-6E61-4736-8697-6E84A3F7E40E}|MahasiswaApp.vbproj|solutionrelative:formsearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B4D689-6E61-4736-8697-6E84A3F7E40E}|MahasiswaApp.vbproj|d:\\up2github\\vb.net_oop\\mahasiswaaplikasi\\mahasiswaapp\\formsearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{45B4D689-6E61-4736-8697-6E84A3F7E40E}|MahasiswaApp.vbproj|solutionrelative:formsearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B4D689-6E61-4736-8697-6E84A3F7E40E}|MahasiswaApp.vbproj|d:\\up2github\\vb.net_oop\\mahasiswaaplikasi\\mahasiswaapp\\formcrud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{45B4D689-6E61-4736-8697-6E84A3F7E40E}|MahasiswaApp.vbproj|solutionrelative:formcrud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B4D689-6E61-4736-8697-6E84A3F7E40E}|MahasiswaApp.vbproj|d:\\up2github\\vb.net_oop\\mahasiswaaplikasi\\mahasiswaapp\\formcrud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{45B4D689-6E61-4736-8697-6E84A3F7E40E}|MahasiswaApp.vbproj|solutionrelative:formcrud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B4D689-6E61-4736-8697-6E84A3F7E40E}|MahasiswaApp.vbproj|d:\\up2github\\vb.net_oop\\mahasiswaaplikasi\\mahasiswaapp\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{45B4D689-6E61-4736-8697-6E84A3F7E40E}|MahasiswaApp.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormSearch.vb",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\MahasiswaAplikasi\\MahasiswaApp\\FormSearch.vb",
+              "RelativeDocumentMoniker": "FormSearch.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\MahasiswaAplikasi\\MahasiswaApp\\FormSearch.vb",
+              "RelativeToolTip": "FormSearch.vb",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-20T04:20:08.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSearch.vb [Design]",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\MahasiswaAplikasi\\MahasiswaApp\\FormSearch.vb",
+              "RelativeDocumentMoniker": "FormSearch.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\MahasiswaAplikasi\\MahasiswaApp\\FormSearch.vb [Design]",
+              "RelativeToolTip": "FormSearch.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-20T04:11:28.622Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\MahasiswaAplikasi\\MahasiswaApp\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\MahasiswaAplikasi\\MahasiswaApp\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "My Project\\Application.Designer.vb",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwCIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-19T19:02:39.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCRUD.vb",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\MahasiswaAplikasi\\MahasiswaApp\\FormCRUD.vb",
+              "RelativeDocumentMoniker": "FormCRUD.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\MahasiswaAplikasi\\MahasiswaApp\\FormCRUD.vb",
+              "RelativeToolTip": "FormCRUD.vb",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-19T18:45:56.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormCRUD.vb [Design]",
+              "DocumentMoniker": "D:\\up2github\\VB.Net_OOP\\MahasiswaAplikasi\\MahasiswaApp\\FormCRUD.vb",
+              "RelativeDocumentMoniker": "FormCRUD.vb",
+              "ToolTip": "D:\\up2github\\VB.Net_OOP\\MahasiswaAplikasi\\MahasiswaApp\\FormCRUD.vb [Design]",
+              "RelativeToolTip": "FormCRUD.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-19T18:10:50.856Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

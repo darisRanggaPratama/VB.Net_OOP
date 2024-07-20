@@ -1,0 +1,12 @@
+D:\up2github\VB.Net_OOP\AnggotaApps\MemberApps\obj\Debug\MemberApps.vbproj.AssemblyReference.cache
+D:\up2github\VB.Net_OOP\AnggotaApps\MemberApps\obj\Debug\MemberApps.formMember.resources
+D:\up2github\VB.Net_OOP\AnggotaApps\MemberApps\obj\Debug\MemberApps.Resources.resources
+D:\up2github\VB.Net_OOP\AnggotaApps\MemberApps\obj\Debug\MemberApps.vbproj.GenerateResource.cache
+D:\up2github\VB.Net_OOP\AnggotaApps\MemberApps\obj\Debug\MemberApps.vbproj.CoreCompileInputs.cache
+D:\up2github\VB.Net_OOP\AnggotaApps\MemberApps\bin\Debug\MemberApps.exe.config
+D:\up2github\VB.Net_OOP\AnggotaApps\MemberApps\bin\Debug\MemberApps.exe
+D:\up2github\VB.Net_OOP\AnggotaApps\MemberApps\bin\Debug\MemberApps.pdb
+D:\up2github\VB.Net_OOP\AnggotaApps\MemberApps\bin\Debug\MemberApps.xml
+D:\up2github\VB.Net_OOP\AnggotaApps\MemberApps\obj\Debug\MemberApps.exe
+D:\up2github\VB.Net_OOP\AnggotaApps\MemberApps\obj\Debug\MemberApps.xml
+D:\up2github\VB.Net_OOP\AnggotaApps\MemberApps\obj\Debug\MemberApps.pdb

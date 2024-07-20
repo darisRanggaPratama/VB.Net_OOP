@@ -1,0 +1,13 @@
+D:\up2github\VB.Net_OOP\MahasiswaAplikasi\MahasiswaApp\obj\Debug\MahasiswaApp.vbproj.AssemblyReference.cache
+D:\up2github\VB.Net_OOP\MahasiswaAplikasi\MahasiswaApp\obj\Debug\MahasiswaApp.form_crud.resources
+D:\up2github\VB.Net_OOP\MahasiswaAplikasi\MahasiswaApp\obj\Debug\MahasiswaApp.Resources.resources
+D:\up2github\VB.Net_OOP\MahasiswaAplikasi\MahasiswaApp\obj\Debug\MahasiswaApp.vbproj.GenerateResource.cache
+D:\up2github\VB.Net_OOP\MahasiswaAplikasi\MahasiswaApp\obj\Debug\MahasiswaApp.vbproj.CoreCompileInputs.cache
+D:\up2github\VB.Net_OOP\MahasiswaAplikasi\MahasiswaApp\bin\Debug\MahasiswaApp.exe.config
+D:\up2github\VB.Net_OOP\MahasiswaAplikasi\MahasiswaApp\bin\Debug\MahasiswaApp.exe
+D:\up2github\VB.Net_OOP\MahasiswaAplikasi\MahasiswaApp\bin\Debug\MahasiswaApp.pdb
+D:\up2github\VB.Net_OOP\MahasiswaAplikasi\MahasiswaApp\bin\Debug\MahasiswaApp.xml
+D:\up2github\VB.Net_OOP\MahasiswaAplikasi\MahasiswaApp\obj\Debug\MahasiswaApp.exe
+D:\up2github\VB.Net_OOP\MahasiswaAplikasi\MahasiswaApp\obj\Debug\MahasiswaApp.xml
+D:\up2github\VB.Net_OOP\MahasiswaAplikasi\MahasiswaApp\obj\Debug\MahasiswaApp.pdb
+D:\up2github\VB.Net_OOP\MahasiswaAplikasi\MahasiswaApp\obj\Debug\MahasiswaApp.FormSearch.resources
