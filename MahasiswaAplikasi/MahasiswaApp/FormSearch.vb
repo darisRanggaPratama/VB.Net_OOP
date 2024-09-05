@@ -1,8 +1,8 @@
 ﻿Imports System.Data.Odbc
-Public Class FormSearch	
+Public Class FormSearch
 	Dim connect As OdbcConnection
-	Dim cmd As OdbcCommand	
-	Dim dataAdapt As OdbcDataAdapter	
+	Dim cmd As OdbcCommand
+	Dim dataAdapt As OdbcDataAdapter
 	Dim myDB As String
 
 	Sub connecting()

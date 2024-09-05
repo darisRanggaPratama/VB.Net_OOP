@@ -24,7 +24,7 @@ Public Class form_crud
 		txtAlamat.Text = ""
 		txtHP.Text = ""
 
-		txtNIM.Enabled = False
+		'txtNIM.Enabled = False
 		txtNama.Enabled = False
 		txtAlamat.Enabled = False
 		txtHP.Enabled = False
@@ -117,6 +117,9 @@ Public Class form_crud
 			cmd = New OdbcCommand("SELECT * FROM mahasiswa WHERE nim = '" & txtNIM.Text & "'", connect)
 			dataRead = cmd.ExecuteReader()
 			dataRead.Read()
+			txtNama.Enabled = True
+			txtAlamat.Enabled = True
+			txtHP.Enabled = True
 			If dataRead.HasRows Then
 				txtNama.Text = dataRead.Item("nama")
 				txtAlamat.Text = dataRead.Item("alamat")
